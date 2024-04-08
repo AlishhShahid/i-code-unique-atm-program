@@ -4,7 +4,7 @@
   "description": "This is a unique atm program.",
   "main": "index.js",
   "type": "module",
-  "bin": "index.js",
+  "bin": "fun.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
